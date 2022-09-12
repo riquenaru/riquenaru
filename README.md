@@ -1,9 +1,4 @@
-### Hey eu sou Henrique Tavares 👋
-
-- 🔭 I’m currently working on ...
-- 🌱 Estudando Java, Javascript
-- 😄 Pronouns: Ele/dele
-- ⚡ Fun fact: Amo tokusatsus
+### Opa eu sou Henrique Tavares 👋
 
 <div align="center">
   <a href="https://github.com/riquenaru">
