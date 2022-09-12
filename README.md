@@ -27,3 +27,5 @@
 
   
 </div>
+
+  ![snake gif](https://github.com/riquenaru/riquenaru/blob/output/github-contribution-grid-snake.svg)
