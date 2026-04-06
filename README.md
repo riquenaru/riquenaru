@@ -1,10 +1,6 @@
 ### <img align="center" alt="Rafa-React" height="40" width="40" src="https://img.icons8.com/color-glass/48/000000/naruto.png"/> Hello World 👋
 
-<div align="center">
-  <a href="https://github.com/riquenaru">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riquenaru&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riquenaru&layout=compact&langs_count=7&theme=codeSTACKr"/>
-</div>
+
 
   ### Learning 
 
