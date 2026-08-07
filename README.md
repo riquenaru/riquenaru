@@ -1,28 +1,42 @@
-### <img align="center" alt="Rafa-React" height="40" width="40" src="https://img.icons8.com/color-glass/48/000000/naruto.png"/> Hello World 👋
+
+**Henrique Tavares**
+
+Software Engineering & Data Science Student | Full Stack & Solutions Developer
+
+
+🚀 Sobre Mim
+
+Sou graduando em Engenharia de Software e Ciência de Dados (UniCesumar) e profissional em transição para a área de Tecnologia. Minha jornada no ecossistema tech começou em 2020 e, desde então, venho transformando conceitos teóricos em código limpo, estruturado e escalável.
+
+Tenho forte vivência com atendimento técnico, resolução de problemas e comunicação estratégica, o que me permite conectar requisitos de negócios à arquitetura de software com facilidade e foco em experiência do usuário.
+
+💡Interesses: Desenvolvimento Full Stack, Engenharia de Dados, Arquitetura de Software e Cloud.
+🎯 Objetivo: Criar soluções digitais eficientes, evoluir continuamente em ambientes colaborativos e gerar impacto prático através da tecnologia.
 
 
 
-  ### Learning 
+🛠️ Stack & Ferramentas
 
-<div style="display: inline_block"><br>
+**Tecnologias & Ferramentas**
+**Linguagens** JavaScript, TypeScript, Python, Java, C#, SQL 
+**Backend & Frameworks**  Node.js, NestJS, .NET 
+**Frontend & Web**  React, HTML5, CSS3 |
+**Bancos de Dados & Cloud**  PostgreSQL, MySQL, AWS 
+**Boas Práticas**  Git, GitHub, Metodologias Ágeis 
+
+
+📂 O que você encontra por aqui
+
+* 🔹 **Projetos Full Stack & Web:** Aplicações focadas em usabilidade, performance e consumo de APIs.
+* 🔹 **Projetos de Dados & Back-end:** Scripts de automação, modelagem de dados e arquitetura de rotas.
+* 🔹 **Hackathons & Desafios:** Soluções desenvolvidas sob demanda em sprints ágeis.
+* 🔹 **Estudos & Experimentos:** Implementação de novos frameworks e testes de algoritmos.
+
+
+
+📫 Conecte-se comigo
+LinkedIn: https://www.linkedin.com/in/tavares-henrique/
+Email: hto.henrique@gmail.com
   
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="35" src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Js" height="37" width="35" src="https://img.icons8.com/color/48/228BE6/java-coffee-cup-logo--v1.png"/>
-  <img align="center" alt="Rafa-Js" height="30" width="35" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-</div>
-
-##
-<div>
-
-  <a href="https://instagram.com/hertziick" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:oliveirahenriquegc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/tavareshenriquegc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-  
-</div>
 
   ![snake gif](https://github.com/riquenaru/riquenaru/blob/output/github-contribution-grid-snake.svg)
