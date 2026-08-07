@@ -35,6 +35,7 @@ Tenho forte vivência com atendimento técnico, resolução de problemas e comun
 
 
 📫 Conecte-se comigo
+
 LinkedIn: https://www.linkedin.com/in/tavares-henrique/
 
 Email: hto.henrique@gmail.com
